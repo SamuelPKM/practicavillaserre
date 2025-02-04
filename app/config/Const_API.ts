@@ -1,0 +1,1 @@
+export const API_URL : string = "https://calidad.cominvi.com.mx:8880/api/principal/"
