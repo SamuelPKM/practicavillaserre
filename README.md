@@ -1,8 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Indicaciones del dev Samuel
+El unico formulario que consume informacion es el que está en la ruta
+[http://localhost:3000/ordenes](http://localhost:3000/ordenes)
 
-## Getting Started
+Este proyecto fue creado en NextJs, aunque no está completo,
+podria reflejar algunos de mis conocimientos, recomiendo yarn para correrlo
 
-First, run the development server:
+La verdad me siento realmente mal de entregar solo esto.
+
+Saludos
+
+## Ahora si cosas genericas para correr el proyecto
+## Puedes correr el comando para instalar todos los node modules necesarios
+Ejemplos
+```bash
+npm install
+# or
+yarn 
+```
+
+
+## Despues, para correr el servidor virtual DOM.
+
+Para correr el server puedes usar:
 
 ```bash
 npm run dev
