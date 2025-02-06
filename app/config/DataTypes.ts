@@ -8,7 +8,7 @@ export type Usuario = {
     fecharegistro: string;
 };
 
-type Producto = {
+export type Producto = {
     idproducto: number;
     nombre: string;
     categoria: string;
